@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "641995179389",
+    "project_id": "flutter-firebase-afedb",
+    "storage_bucket": "flutter-firebase-afedb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:1072b3f60ccceaddcb7814",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:31c91dced0fa0e6ecb7814",
+        "android_client_info": {
+          "package_name": "com.example.crafty_bay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:60b24d488b1a0f71cb7814",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:69f331a3ea930857cb7814",
+        "android_client_info": {
+          "package_name": "com.example.flutter_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:9d6f9fdc2475b8e7cb7814",
+        "android_client_info": {
+          "package_name": "com.example.m360_ict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641995179389:android:1a598f18a61681c6cb7814",
+        "android_client_info": {
+          "package_name": "com.soyon.chit_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO_1STadSCC_QEatCGJnvgykZemW3HJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
